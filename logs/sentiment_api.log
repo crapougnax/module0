@@ -1,0 +1,19 @@
+2025-11-04 11:08:12.737 | INFO     | sentiment_api:anasent:17 - Received text: %s
+2025-11-04 11:10:07.289 | INFO     | sentiment_api:anasent:17 - Received text: {payload.texte}
+2025-11-04 11:10:31.607 | INFO     | sentiment_api:anasent:17 - Received text: Fuck You very much!
+2025-11-04 11:13:21.209 | INFO     | sentiment_api:anasent:17 - Received text: Fuck You very much!
+2025-11-04 11:13:21.210 | INFO     | sentiment_api:anasent:19 - Résultats: {'neg': 0.558, 'neu': 0.442, 'pos': 0.0, 'compound': -0.5848}
+2025-11-04 11:26:20.823 | INFO     | sentiment_api:anasent:17 - Received text: bonjour
+2025-11-04 11:26:20.824 | INFO     | sentiment_api:anasent:19 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-11-04 11:41:49.098 | INFO     | sentiment_api:anasent:17 - Received text: 
+2025-11-04 11:41:49.098 | INFO     | sentiment_api:anasent:17 - Received text: 
+2025-11-04 11:41:49.099 | INFO     | sentiment_api:anasent:20 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+2025-11-04 11:41:49.099 | INFO     | sentiment_api:anasent:20 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+2025-11-04 11:41:51.689 | INFO     | sentiment_api:anasent:17 - Received text: 
+2025-11-04 11:41:51.689 | INFO     | sentiment_api:anasent:17 - Received text: 
+2025-11-04 11:41:51.689 | INFO     | sentiment_api:anasent:20 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+2025-11-04 11:41:51.689 | INFO     | sentiment_api:anasent:20 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+2025-11-04 11:45:07.914 | INFO     | sentiment_api:anasent:17 - Received text: fuck
+2025-11-04 11:45:07.914 | INFO     | sentiment_api:anasent:17 - Received text: fuck
+2025-11-04 11:45:07.915 | INFO     | sentiment_api:anasent:20 - Résultats: {'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.5423}
+2025-11-04 11:45:07.915 | INFO     | sentiment_api:anasent:20 - Résultats: {'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.5423}
